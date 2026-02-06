@@ -1,0 +1,29 @@
+# Bibliography (Example)
+
+This is your project's authoritative citation database. Add verified citations here.
+
+## Climate Science
+
+- Richardson et al. (2023) - "Earth beyond six of nine planetary boundaries"
+  * Journal: Science Advances
+  * DOI: 10.1126/sciadv.adh2458
+  * Status: ✅ VERIFIED
+
+- Steffen et al. (2015) - "Planetary boundaries: Guiding human development"
+  * Journal: Science
+  * DOI: 10.1126/science.1259855
+  * Status: ✅ VERIFIED
+
+## AI Safety
+
+- Hendrycks et al. (2023) - "Natural Selection Favors AIs over Humans"
+  * arXiv: 2303.16200
+  * Status: ✅ VERIFIED
+
+## Instructions
+
+1. Copy this file to `BIBLIOGRAPHY.md` (without `.example` suffix)
+2. Add your verified citations
+3. Use format: `Author et al. (YEAR) - "Title"`
+4. Mark status as ✅ VERIFIED after manual verification
+5. Include DOI or arXiv ID for easy lookup

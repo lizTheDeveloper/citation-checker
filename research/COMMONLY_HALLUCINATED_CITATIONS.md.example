@@ -1,0 +1,37 @@
+# Commonly Hallucinated Citations (Example)
+
+This file tracks citations that AI models frequently hallucinate. When detected, the checker flags them as suspicious.
+
+## Non-Existent Papers
+
+- Johnson & Smith (2025) - "Artificial General Intelligence: A Comprehensive Framework"
+  * Status: ❌ FABRICATED
+  * Reason: No such paper exists; frequently hallucinated by GPT-4
+  * Date flagged: 2024-10-15
+
+- Thompson et al. (2024) - "Quantum Computing and Climate Modeling"
+  * Status: ❌ FABRICATED
+  * Reason: Authors exist but never published this paper
+  * Date flagged: 2024-10-20
+
+## Fake arXiv IDs
+
+- arXiv:2501.12345
+  * Status: ❌ FABRICATED (404 error)
+  * Reason: Returns 404 on arXiv.org
+  * Date flagged: 2024-11-01
+
+## Real Papers with Wrong Details
+
+- Richardson (2022) - Should be Richardson et al. (2023)
+  * Status: ⚠️ WRONG YEAR
+  * Correct: Richardson et al. (2023)
+  * Date flagged: 2024-10-25
+
+## Instructions
+
+1. Copy this file to `COMMONLY_HALLUCINATED_CITATIONS.md` (without `.example` suffix)
+2. Add citations you've verified as fabricated
+3. Include reason and date flagged
+4. Update regularly as new hallucinations are discovered
+5. Share findings with the community to help others
