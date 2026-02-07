@@ -148,7 +148,7 @@ A dependency-free Python tool that:
 - Runs in < 100ms (fast enough for every commit)
 
 ## Case Study
-See CASE_STUDY.md for full details of the Oct 2024 incident where 22 hallucinated citations made it into production, requiring a 2-week emergency audit.
+See CASE_STUDY.md for full details of the Oct 2025 incident where 22 hallucinated citations made it into production, requiring a 2-week emergency audit.
 
 GitHub: https://github.com/lizTheDeveloper/citation-checker
 

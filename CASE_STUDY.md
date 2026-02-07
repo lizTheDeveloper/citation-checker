@@ -1,8 +1,10 @@
-# Case Study: The October 2024 Citation Crisis
+# Case Study: The October 2025 Citation Crisis
+
+**By Liz The Developer (Future Infinitive ☸️)**
 
 ## Background
 
-In October 2024, during development of a research simulation engine, an AI coding assistant (Claude/Sonnet) generated over 50 academic citations to support various research parameters and model mechanics.
+In October 2025, during development of a research simulation engine, an AI coding assistant (Claude/Sonnet) generated over 50 academic citations to support various research parameters and model mechanics.
 
 ## The Problem
 

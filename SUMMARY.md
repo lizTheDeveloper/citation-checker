@@ -17,7 +17,7 @@ A complete, production-ready citation hallucination detection tool extracted fro
 **Documentation:**
 - `README.md` (9KB) - Complete documentation
 - `QUICKSTART.md` (3.4KB) - 5-minute setup guide
-- `CASE_STUDY.md` (6.7KB) - Real-world incident from Oct 2024
+- `CASE_STUDY.md` (6.7KB) - Real-world incident from Oct 2025
 - `PUBLISH.md` (6KB) - Publishing checklist and instructions
 
 **Supporting Files:**
@@ -45,7 +45,7 @@ Dependencies: None (pure Python 3)
 
 ## What It Does
 
-**Problem:** AI models hallucinate academic citations (Oct 2024: 40% were fabricated)
+**Problem:** AI models hallucinate academic citations (Oct 2025: 40% were fabricated)
 
 **Solution:**
 1. Extracts citations from text using regex
@@ -145,7 +145,7 @@ python3 test_example.py
 
 ## What Makes This Unique
 
-1. **Born from real pain** - Oct 2024 incident with 40% fabricated citations
+1. **Born from real pain** - Oct 2025 incident with 40% fabricated citations
 2. **Zero dependencies** - No NLP libraries, just regex
 3. **Fast enough for git hooks** - < 100ms, doesn't slow down workflow
 4. **Complete documentation** - Including real-world case study
@@ -248,7 +248,9 @@ This tool provides **immediate, automated protection** at the commit level.
 
 ## Acknowledgments
 
-Extracted from the "Super-Alignment to Utopia" research simulation project, where this tool was born out of necessity after the Oct 2024 citation crisis.
+Created by **Liz The Developer** (aka **Future Infinitive ☸️**)
+
+Extracted from the "Super-Alignment to Utopia" research simulation project, where this tool was born out of necessity after the Oct 2025 citation crisis.
 
 Built with Claude Code (claude.ai/code) on Feb 6, 2025.
 

@@ -237,7 +237,7 @@ These may be hallucinated. Please verify manually.
 - `0` - All citations verified (safe to commit)
 - `1` - Unverified or suspicious citations found (review needed)
 
-## Real-World Example: Oct 2024 Citation Crisis
+## Real-World Example: Oct 2025 Citation Crisis
 
 This tool was born from a real incident:
 
@@ -346,6 +346,12 @@ If you use this tool in academic work:
 
 - **Issues:** https://github.com/lizTheDeveloper/citation-checker/issues
 - **Discussions:** https://github.com/lizTheDeveloper/citation-checker/discussions
+
+## Credits
+
+Created by **Liz The Developer** (aka **Future Infinitive ☸️**)
+
+Born from the October 2025 citation crisis in the "Super-Alignment to Utopia" research simulation project.
 
 ---
 
