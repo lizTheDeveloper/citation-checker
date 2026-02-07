@@ -28,7 +28,7 @@ This tool catches these hallucinations **before** they enter your repository.
 
 ```bash
 # 1. Download the checker script
-curl -o citationChecker.py https://raw.githubusercontent.com/YOUR_USERNAME/citation-checker/main/citationChecker.py
+curl -o citationChecker.py https://raw.githubusercontent.com/lizTheDeveloper/citation-checker/main/citationChecker.py
 chmod +x citationChecker.py
 
 # 2. Create citation database directories
@@ -37,7 +37,7 @@ touch research/BIBLIOGRAPHY.md
 touch research/COMMONLY_HALLUCINATED_CITATIONS.md
 
 # 3. Install as git hook (optional)
-curl -o .git/hooks/pre-commit https://raw.githubusercontent.com/YOUR_USERNAME/citation-checker/main/pre-commit-hook
+curl -o .git/hooks/pre-commit https://raw.githubusercontent.com/lizTheDeveloper/citation-checker/main/pre-commit-hook
 chmod +x .git/hooks/pre-commit
 ```
 
@@ -338,14 +338,14 @@ If you use this tool in academic work:
   title = {Citation Hallucination Checker},
   author = {Your Name},
   year = {2024},
-  url = {https://github.com/YOUR_USERNAME/citation-checker}
+  url = {https://github.com/lizTheDeveloper/citation-checker}
 }
 ```
 
 ## Support
 
-- **Issues:** https://github.com/YOUR_USERNAME/citation-checker/issues
-- **Discussions:** https://github.com/YOUR_USERNAME/citation-checker/discussions
+- **Issues:** https://github.com/lizTheDeveloper/citation-checker/issues
+- **Discussions:** https://github.com/lizTheDeveloper/citation-checker/discussions
 
 ---
 

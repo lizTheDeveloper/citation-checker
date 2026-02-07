@@ -6,7 +6,7 @@ Get the citation checker running in under 5 minutes.
 
 ```bash
 # Download the checker
-curl -o citationChecker.py https://raw.githubusercontent.com/YOUR_USERNAME/citation-checker/main/citationChecker.py
+curl -o citationChecker.py https://raw.githubusercontent.com/lizTheDeveloper/citation-checker/main/citationChecker.py
 chmod +x citationChecker.py
 
 # Create citation database (empty for now)
@@ -55,7 +55,7 @@ python3 citationChecker.py --text "According to Smith et al. (2023), AI is advan
 
 ```bash
 # Download pre-commit hook
-curl -o .git/hooks/pre-commit https://raw.githubusercontent.com/YOUR_USERNAME/citation-checker/main/pre-commit-hook
+curl -o .git/hooks/pre-commit https://raw.githubusercontent.com/lizTheDeveloper/citation-checker/main/pre-commit-hook
 chmod +x .git/hooks/pre-commit
 
 # Now every commit will check citations automatically
@@ -127,4 +127,4 @@ git commit -m "Add research notes"
 
 - **Full documentation**: [README.md](README.md)
 - **Real-world example**: [CASE_STUDY.md](CASE_STUDY.md)
-- **Issues**: https://github.com/YOUR_USERNAME/citation-checker/issues
+- **Issues**: https://github.com/lizTheDeveloper/citation-checker/issues
