@@ -334,10 +334,10 @@ MIT License - See LICENSE file for details.
 If you use this tool in academic work:
 
 ```
-@software{citation_hallucination_checker_2024,
+@software{citation_hallucination_checker_2025,
   title = {Citation Hallucination Checker},
-  author = {Your Name},
-  year = {2024},
+  author = {Howard, Liz (Future Infinitive)},
+  year = {2025},
   url = {https://github.com/lizTheDeveloper/citation-checker}
 }
 ```
